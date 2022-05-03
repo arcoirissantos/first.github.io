@@ -1,2 +1,2 @@
 # first.github.io
-Joranada Dev
+Jornanda Dev
